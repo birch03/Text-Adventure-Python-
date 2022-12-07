@@ -1,6 +1,5 @@
 #Author: Quinn Stone
-#Project: A5 CSCI 141
-#Date: 3/2/22
+
 import time
 import random
 import math
